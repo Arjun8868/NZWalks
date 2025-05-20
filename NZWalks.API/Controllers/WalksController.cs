@@ -8,7 +8,7 @@ using NZWalks.API.Repositories;
 
 namespace NZWalks.API.Controllers
 {
-   //Checking Pull
+   
     //api/Walks
     [Route("api/[controller]")] //[Route("api/Walks")]
     [ApiController]
